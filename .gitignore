@@ -1,0 +1,26 @@
+# PyCharm / IntelliJ
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data / output files
+data/
+outputs/
+results/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
